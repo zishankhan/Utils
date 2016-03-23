@@ -1,7 +1,9 @@
-package com.zee.utilities;
+package com.zee.utilities.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.zee.utilities.R;
 
 public class MainActivity extends AppCompatActivity {
 
